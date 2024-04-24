@@ -98,8 +98,9 @@ public class Association {
 
     @Override
     public String toString() {
-        return "Association{" +
-                "id=" + id +
+        return
+
+
                 ", codePostal=" + code_postal +
                 ", telephone=" + telephone +
                 ", nom='" + nom + '\'' +
